@@ -26,4 +26,4 @@ class Dog
   end
   
 end
-
+pluto = dog.new
