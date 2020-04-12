@@ -13,3 +13,6 @@ class Dog
   end
 end
 
+pluto = Dog.new 
+fido = Dog.new 
+maddy = Dog.new
